@@ -24,7 +24,7 @@ struct CircularButtonView: View {
                     .resizable()
                     .scaledToFit()
                     .frame(width: 24, height: 24)
-                    .foregroundColor(.primary)
+                    .foregroundColor(.black)
             }
         }
         .buttonStyle(PlainButtonStyle())
